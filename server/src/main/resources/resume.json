@@ -1,0 +1,98 @@
+[
+  {
+    "id": "basic_info",
+    "text": "My name is Anas Erkinjonov. I was born in Namangan, Uzbekistan in 2002, and currently live in Tashkent."
+  },
+  {
+    "id": "contact_info",
+    "text": "You can contact me at anaserkinjonov@gmail.com or call me at +998993212503. My GitHub is https://github.com/anaserkinov, my telegram is https://t.me/anas_erkinjonov and my LinkedIn is https://linkedin.com/in/anas-erkinjonov."
+  },
+  {
+    "id": "skills_1",
+    "text": "I am proficient in Kotlin, Java, Dagger/Hilt, Coroutines/RxJava, SQLite/PostgreSQL, Socket/RESTful APIs, MVVM/MVI, unit and UI testing, Git, and Docker. I am competent in Kotlin Multiplatform and Compose Multiplatform. I am familiar with SwiftUI, Dart, Flutter, C/C++, Android NDK andGraphQL."
+  },
+  {
+    "id": "languages_spoken",
+    "text": "I am fluent in Uzbek, proficient in English (B2), and continuously improving my English communication skills"
+  },
+  {
+    "id": "soft_skills",
+    "text": "I have strong problem-solving skills, a clear and concise communication style, and experience working independently as well as in agile teams. I'm comfortable explaining technical concepts to non-technical audiences, collaborating across frontend and backend roles, and continuously researching and applying new technologies through self-directed projects."
+  },
+  {
+    "id": "tech_summary",
+    "text": "I specialize in Android development with Kotlin, focusing on Jetpack Compose, MVVM architecture, and Clean Architecture principles. I have hands-on experience with Kotlin Coroutines, Hilt/Dagger for dependency injection, Room and SQLite for local data storage, and WebSocket/Firebase for real-time features. I'm also skilled in developing modular, testable codebases with CI/CD pipelines. In addition to Android, I work with Kotlin Multiplatform and Compose Multiplatform to build cross-platform UIs, and have integrated AI features using Gemini API and Qdrant for RAG-based chatbot experiences."
+  },
+  {
+    "id": "experience_1",
+    "text": "I have been working as an Android developer since 2021. In the first year, I mostly used Java, but since then, I’ve focused more on Kotlin."
+  },
+  {
+    "id": "experience_unical_summary",
+    "text": "Since June 2021, I’ve worked as an Android Software Engineer at Unical in Tashkent."
+  },
+  {
+    "id": "experience_unical",
+    "text": "While working in Unical, I improved code quality and stability by increasing test coverage from 40% to 75% using unit and integration tests. Integrated CI/CD pipelines using GitHub Actions and GitLab CI to automate testing and deployment, reducing release time and improving reliability. Used code-driven UI to improve performance and handle dynamic content. Created a Fragment-like screen management component with swipe-to-close and landscape mode support. Implemented offline mode using SQLite with seamless sync after reconnection. Built a robust logging system, resulting in better performance tracking and a 30% reduction in crash rates. Developed an Android library for POS printer communication over Bluetooth, USB, and Ethernet. Added POS printer image printing support to an iOS application. Led development of a Flutter-based desktop app, managing database, networking, and core modules."
+  },
+  {
+    "id": "experience_upwork_summary",
+    "text": "Worked as a freelance Android developer on Upwork from February to June 2021."
+  },
+  {
+    "id": "experience_upwork",
+    "text": "While working on projects on Upwork, I collaborated directly with clients to gather requirements and deliver tailored Android solutions. Enhanced app UI to align with Material Design guidelines, incorporating intuitive animations for a more engaging user experience. Migrated legacy code to MVVM and modularized the codebase using clean architecture principles. Implemented chat features like read receipts, message info, and auto-delete on Firebase, similar to WhatsApp."
+  },
+  {
+    "id": "education",
+    "text": "Studied Software Engineering at Tashkent University of Information Technologies from August 2019 to April 2021 (incomplete). Studied algorithms, OS, DBMS, software development methodologies, tools, and team projects. I learned coding primarily through self-study."
+  },
+  {
+    "id": "project_bito",
+    "text": "Bito is an all-in-one ERP app that streamlines and optimizes operations for businesses of any size or industry. It offers an integrated solution for managing key enterprise processes. I have been working on this project since June 2021. Its play store link is https://play.google.com/store/apps/details?id=uz.unical.bito.pro"
+  },
+  {
+    "id": "project_bito_summary",
+    "text": "I developed Bito, an ERP system from scratch, integrating modules for POS, inventory, finance, HR, logistics, and supply chain management. Utilized Kotlin and Java in a multi-module MVVM architecture, employing Kotlin Coroutines for concurrency and Room for database management. Implemented manual dependency injection, code-driven UI, and Firebase for real-time communication, following Scrum methodology. Ensured high-quality code through CI/CD pipelines with GitLab Actions and thorough testing using JUnit and Espresso."
+  },
+  {
+    "id": "project_taxi",
+    "text": "Taxi Driver is a white-label mobile app that helps taxi drivers efficiently manage ride requests with features like real-time navigation, offline fare calculation, ride history, and driver ratings. I have been working on this project since May 2023. Its play store link is https://play.google.com/store/apps/details?id=uz.unical.salom.taxi.driver"
+  },
+  {
+    "id": "project_taxi_summary",
+    "text": "I developed Taxi Driver, a mobile app designed for taxi drivers to manage ride requests, offering real-time navigation, offline fare calculation, ride history, and a driver rating system. Utilized Kotlin in an MVVM multi-module architecture, with Kotlin Coroutines for concurrency and Room for database management. Implemented Hilt for dependency injection, WebSocket and Firebase for real-time communication, and OpenStreetMap (OSM) for navigation services. Ensured seamless development using GitLab Actions for CI/CD, with a user interface built in XML."
+  },
+  {
+    "id": "project_market",
+    "text": "Market is a white-label e-commerce app offering a wide range of products—from groceries to electronics—with intuitive navigation, secure payments, and smooth order management for a seamless shopping experience. I worked on this project from Aug 2023 to Dec 2024. Its play store link is https://play.google.com/store/apps/details?id=uz.unical.cardin.market"
+  },
+  {
+    "id": "project_market_summary",
+    "text": "I developed the Market app, an e-commerce platform allowing users to browse, search, and purchase products across categories such as groceries, electronics, fashion, and home goods. Utilized Kotlin in a multi-module MVVM architecture with Kotlin Coroutines for concurrency, Room for database management, and Hilt for dependency injection. Integrated WebSocket and Firebase for real-time communication and followed Scrum methodology for agile development."
+  },
+  {
+    "id": "project_portfolio",
+    "text": "Portfolio is a personal web application showcasing my skills, projects, and experience, featuring an AI-powered chat interface that allows users to ask questions about my background in real time. I built this in 2025 to demonstrate my full-stack Kotlin and AI integration skills."
+  },
+  {
+    "id": "project_portfolio_summary",
+    "text": "I developed a portfolio web app using Compose Multiplatform, featuring a responsive chat interface for real-time Q&A about my skills and experience. Implemented real-time messaging using WebSockets on the client side. Built the backend in Kotlin with Ktor, handling WebSocket communication and integrating Gemini API with Qdrant vector database for RAG-based semantic search. Embedded resume data into vector space to enable natural language Q&A powered by AI."
+  },
+  {
+    "id": "project_snowflake",
+    "text": "Snowflake is a lightweight, customizable snowflake animation library built with Compose Multiplatform. It supports Android, iOS, Desktop, and Web, and is designed to provide a reusable holiday or seasonal animation component for cross-platform apps. I created this library in 2025."
+  },
+  {
+    "id": "project_snowflake_summary",
+    "text": "I created Snowflake - a lightweight, customizable snowflake animation library using Compose Multiplatform for Android, iOS, Desktop, and Web. Set up a GitHub Actions CI/CD pipeline for automated release to Maven Central, including semantic versioning, artifact signing, and GitHub Releases."
+  },
+  {
+    "id": "project_autostatus",
+    "text": "AutoStatus is a Telegram mini web app that allows Premium users to customize their status with auto-changing emojis based on predefined time intervals. Built in 2024, it offers a seamless user experience through a web-based interface integrated directly within Telegram."
+  },
+  {
+    "id": "project_autostatus_summary",
+    "text": "I developed Autostatus - full-stack Telegram mini app for automated status updates, with a frontend built in TypeScript. Built the backend in Kotlin using Ktor, with PostgreSQL for persistent user data and status scheduling."
+  }
+]
