@@ -9,7 +9,7 @@
   },
   {
     "id": "skills_1",
-    "text": "I am proficient in Kotlin, Java, Dagger/Hilt, Coroutines/RxJava, SQLite/PostgreSQL, Socket/RESTful APIs, MVVM/MVI, unit and UI testing, Git, and Docker. I am competent in Kotlin Multiplatform and Compose Multiplatform. I am familiar with SwiftUI, Dart, Flutter, C/C++, Android NDK andGraphQL."
+    "text": "I am proficient in Kotlin, Java, Jetpack Compose, Dagger/Hilt, Coroutines/RxJava, SQLite/PostgreSQL, Socket/RESTful APIs, MVVM/MVI, unit and UI testing, Git, and Docker. I am competent in Kotlin Multiplatform and Compose Multiplatform. I am familiar with SwiftUI, Dart, Flutter, C/C++, Android NDK andGraphQL."
   },
   {
     "id": "languages_spoken",
