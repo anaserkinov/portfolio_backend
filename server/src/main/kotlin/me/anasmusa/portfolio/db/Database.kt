@@ -14,7 +14,7 @@ import me.anasmusa.portfolio.ai.ResumeEmbeddings
 class Database {
 
     private val qdrant = QdrantClient(
-        QdrantGrpcClient.newBuilder("0.0.0.0", 6334, false)
+        QdrantGrpcClient.newBuilder("127.0.0.1", 6334, false)
             .build()
     )
 
