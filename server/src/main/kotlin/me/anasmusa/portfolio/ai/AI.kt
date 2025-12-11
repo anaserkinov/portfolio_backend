@@ -104,7 +104,7 @@ class AI {
         val info = context.joinToString("\n\n")
 
         return ai.models.generateContent(
-            "gemini-2.0-flash",
+            "gemini-2.5-flash-lite",
             arrayListOf<Content>().also {
                 history.forEach { qa ->
                     it.add(
